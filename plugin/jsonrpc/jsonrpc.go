@@ -19,9 +19,9 @@ func init() {
 const (
 	httpPkgPath = "net/http"
 
-	jsonrpcPkgPath     = "gitlab.forceup.in/dev-go/gosf/jsonrpc"
-	accessPkgPath      = "gitlab.forceup.in/dev-go/gosf/jsonrpc/access"
-	protoCommonPkgPath = "gitlab.forceup.in/dev-proto/common"
+	jsonrpcPkgPath     = "github.com/bdchain/gosf/jsonrpc"
+	accessPkgPath      = "github.com/bdchain/gosf/jsonrpc/access"
+	protoCommonPkgPath = "github.com/bdchain/common"
 
 	commonEmptyType = ".common.Empty"
 )
