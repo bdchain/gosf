@@ -5,9 +5,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/ipfs-force-community/gosf/jsonrpc"
-	"github.com/ipfs-force-community/gosf/unsafe"
-	"github.com/ipfs-force-community/common"
+	"github.com/bdchain/gosf/jsonrpc"
+	"github.com/bdchain/gosf/unsafe"
+	"github.com/bdchain/common"
 )
 
 const (
