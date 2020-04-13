@@ -9,7 +9,7 @@ import (
 )
 
 import (
-	"gitlab.forceup.in/dev-go/gosf/logger"
+	"github.com/bdchain/gosf/logger"
 )
 
 var uptime time.Time
